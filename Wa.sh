@@ -43,15 +43,15 @@ sleep 1
 
 echo "DAFTAR PILIHAN TOOLS INSTALLER " | lolcat
 echo "1 Dark3           √" | lolcat
-echo "⋇⊶⊰❣⊱⊷⋇⋇⊶⊰❣⊱⊷⋇⋇⊶⊰⊱" | lolcat
+echo "⋇⊶⊰❣⊱⊷⋇⋇⊶⊰❣⊱⊷⋇⋇⊶⊰⊱"| lolcat
 echo "2 diamond-1       √" | lolcat
-echo "⋇⊶⊰❣⊱⊷⋇⋇⊶⊰❣⊱⊷⋇⋇⊶⊰⊱" | lolcat
+echo "⋇⊶⊰❣⊱⊷⋇⋇⊶⊰❣⊱⊷⋇⋇⊶⊰⊱"| lolcat
 echo "3 Hack2.4         √" | lolcat
-echo "⋇⊶⊰❣⊱⊷⋇⋇⊶⊰❣⊱⊷⋇⋇⊶⊰⊱" | lolcat
+echo "⋇⊶⊰❣⊱⊷⋇⋇⊶⊰❣⊱⊷⋇⋇⊶⊰⊱"| lolcat
 echo "4 Dark-Call       √" | lolcat
-echo "⋇⊶⊰❣⊱⊷⋇⋇⊶⊰❣⊱⊷⋇⋇⊶⊰⊱" | lolcat
+echo "⋇⊶⊰❣⊱⊷⋇⋇⊶⊰❣⊱⊷⋇⋇⊶⊰⊱"| lolcat
 echo "5 Auto Mbf        √" | lolcat
-echo "⋇⊶⊰❣⊱⊷⋇⋇⊶⊰❣⊱⊷⋇⋇⊶⊰⊱" | lolcat
+echo "⋇⊶⊰❣⊱⊷⋇⋇⊶⊰❣⊱⊷⋇⋇⊶⊰⊱"| lolcat
 echo "6 santet-online   √" | lolcat
 echo "⋇⊶⊰❣⊱⊷⋇⋇⊶⊰❣⊱⊷⋇⋇⊶⊰⊱"
 echo "7 Dark Unfriend   √" | lolcat
